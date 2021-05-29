@@ -8,7 +8,7 @@ const prefix = ".."
 bot.on('ready', () => {
     console.log(`Logged in as ${bot.user.tag} :)`);
     
-    bot.channels.cache.get('848030787889528832').send(`<:Green:845805015108812810> Bot Online`)
+    bot.channels.cache.get('848030787889528832').send(`🟢 Bot Online`)
     
     bot.user.setActivity(`..help In ${bot.guilds.cache.size} Servers!`, {
         type: "WATCHING",
