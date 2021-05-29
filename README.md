@@ -6,5 +6,7 @@ Here, you can find all official documentation for the GrowTopics discord bot. Th
 
 ## Commands
 
+Help commands:
+
 #### [..help](https://github.com/GrowTopics/GrowTopics/blob/master/Documentation/commands/help.md#help-1)
 #### [..help util](https://github.com/GrowTopics/GrowTopics/blob/master/Documentation/commands/help.md#help-util)
