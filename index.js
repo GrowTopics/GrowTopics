@@ -9,6 +9,7 @@ bot.on('ready', () => {
     console.log(`Logged in as ${bot.user.tag} :)`);
     
     bot.channels.cache.get('848030787889528832').send(`I have restarted!`)
+    bot.channels.cache.get('848662028343836682').send(`No errors, I have restarted!`)
     
     bot.user.setActivity(`..help In ${bot.guilds.cache.size} Servers!`, {
         type: "WATCHING",
